@@ -24,7 +24,7 @@ export const aboutData = {
   paragraphThree: `
   English language - Intermediate.
   `,
-  resume: 'https://drive.google.com/file/d/1CdP_oCAj1ISZRL-Bi8e1un-hPoaRan53/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1osxu6oOor7wSfU3N6zRbTdJSCCapTeMy/view?usp=sharing', // if no resume, the button will not show up
 };
 
 /* `
